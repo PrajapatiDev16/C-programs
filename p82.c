@@ -2,7 +2,7 @@
 int main()
 {
     int a[5],i,n,f;
-    printf("Entaer 5 num:")
+    printf("Entaer 5 num:");
     for(i=0;i<5;i++){
     scanf("%d",&a[i]);
     }
@@ -17,4 +17,5 @@ break;
 }
 if(f!=1)
 {printf("Number was not found");}
+
 }
